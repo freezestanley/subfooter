@@ -2,8 +2,7 @@
   "name": "@fl/footer",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "private": true,
+  "main": "src/index.tsx",
   "workspaces": [
     "packages/*"
   ],
@@ -96,6 +95,7 @@
   },
   "dependencies": {
     "@ant-design/icons": "^4.8.0",
+    "@fl/header": "^1.0.0",
     "@formily/antd": "^2.2.12",
     "@formily/core": "^2.2.12",
     "@formily/react": "^2.2.12",

@@ -4,7 +4,7 @@
  * @Author:
  * @Data: Do not edit
  * @LastEditors: Please set LastEditors
- * @LastEditTime: 2022-12-04 22:24:33
+ * @LastEditTime: 2022-12-05 17:06:37
  */
 import React from 'react'
 // import { createRoot } from 'react-dom/client'
@@ -22,5 +22,5 @@ import React from 'react'
 // const root = createRoot(app!)
 
 // root.render(<React.StrictMode>{rootNode()}</React.StrictMode>)
-const Footer = () => <div>this is Footer123123</div>
+const Footer = () => <div>this is Footer</div>
 export default Footer
